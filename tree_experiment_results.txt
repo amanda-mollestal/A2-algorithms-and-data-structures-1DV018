@@ -1,0 +1,124 @@
+Tree Size: 250, Data Pattern: Skewed
+BST - Add Time: 160000 ns, Remove Time: 8600 ns, Height: 249
+AVL - Add Time: 19000 ns, Remove Time: 9100 ns, Height: 7
+-------------------------------------------------
+
+Tree Size: 250, Data Pattern: Random
+BST - Add Time: 9500 ns, Remove Time: 2600 ns, Height: 14
+AVL - Add Time: 17300 ns, Remove Time: 2000 ns, Height: 8
+-------------------------------------------------
+
+Tree Size: 250, Data Pattern: Skewed
+BST - Add Time: 143400 ns, Remove Time: 500 ns, Height: 249
+AVL - Add Time: 10400 ns, Remove Time: 400 ns, Height: 7
+-------------------------------------------------
+
+Tree Size: 250, Data Pattern: Random
+BST - Add Time: 9900 ns, Remove Time: 500 ns, Height: 17
+AVL - Add Time: 11300 ns, Remove Time: 400 ns, Height: 8
+-------------------------------------------------
+
+Tree Size: 250, Data Pattern: Skewed
+BST - Add Time: 137600 ns, Remove Time: 400 ns, Height: 249
+AVL - Add Time: 8900 ns, Remove Time: 400 ns, Height: 7
+-------------------------------------------------
+
+Tree Size: 500, Data Pattern: Skewed
+BST - Add Time: 680300 ns, Remove Time: 700 ns, Height: 499
+AVL - Add Time: 21100 ns, Remove Time: 700 ns, Height: 8
+-------------------------------------------------
+
+Tree Size: 500, Data Pattern: Random
+BST - Add Time: 18500 ns, Remove Time: 2800 ns, Height: 19
+AVL - Add Time: 21400 ns, Remove Time: 2900 ns, Height: 10
+-------------------------------------------------
+
+Tree Size: 500, Data Pattern: Skewed
+BST - Add Time: 694150 ns, Remove Time: 700 ns, Height: 499
+AVL - Add Time: 23300 ns, Remove Time: 700 ns, Height: 8
+-------------------------------------------------
+
+Tree Size: 500, Data Pattern: Random
+BST - Add Time: 18300 ns, Remove Time: 1200 ns, Height: 16
+AVL - Add Time: 23200 ns, Remove Time: 800 ns, Height: 10
+-------------------------------------------------
+
+Tree Size: 500, Data Pattern: Skewed
+BST - Add Time: 742500 ns, Remove Time: 700 ns, Height: 499
+AVL - Add Time: 24000 ns, Remove Time: 800 ns, Height: 8
+-------------------------------------------------
+
+Tree Size: 1000, Data Pattern: Skewed
+BST - Add Time: 3717000 ns, Remove Time: 1300 ns, Height: 999
+AVL - Add Time: 66350 ns, Remove Time: 1400 ns, Height: 9
+-------------------------------------------------
+
+Tree Size: 1000, Data Pattern: Random
+BST - Add Time: 79950 ns, Remove Time: 1300 ns, Height: 21
+AVL - Add Time: 56050 ns, Remove Time: 1500 ns, Height: 11
+-------------------------------------------------
+
+Tree Size: 1000, Data Pattern: Skewed
+BST - Add Time: 3888800 ns, Remove Time: 1200 ns, Height: 999
+AVL - Add Time: 50300 ns, Remove Time: 1300 ns, Height: 9
+-------------------------------------------------
+
+Tree Size: 1000, Data Pattern: Random
+BST - Add Time: 61400 ns, Remove Time: 1300 ns, Height: 22
+AVL - Add Time: 51600 ns, Remove Time: 1400 ns, Height: 11
+-------------------------------------------------
+
+Tree Size: 1000, Data Pattern: Skewed
+BST - Add Time: 3869550 ns, Remove Time: 1200 ns, Height: 999
+AVL - Add Time: 51800 ns, Remove Time: 1400 ns, Height: 9
+-------------------------------------------------
+
+Tree Size: 2000, Data Pattern: Skewed
+BST - Add Time: 17705050 ns, Remove Time: 2500 ns, Height: 1999
+AVL - Add Time: 164600 ns, Remove Time: 2800 ns, Height: 10
+-------------------------------------------------
+
+Tree Size: 2000, Data Pattern: Random
+BST - Add Time: 226200 ns, Remove Time: 2700 ns, Height: 26
+AVL - Add Time: 290400 ns, Remove Time: 4100 ns, Height: 12
+-------------------------------------------------
+
+Tree Size: 2000, Data Pattern: Skewed
+BST - Add Time: 18435700 ns, Remove Time: 2500 ns, Height: 1999
+AVL - Add Time: 160950 ns, Remove Time: 2800 ns, Height: 10
+-------------------------------------------------
+
+Tree Size: 2000, Data Pattern: Random
+BST - Add Time: 231000 ns, Remove Time: 2500 ns, Height: 25
+AVL - Add Time: 255300 ns, Remove Time: 2800 ns, Height: 12
+-------------------------------------------------
+
+Tree Size: 2000, Data Pattern: Skewed
+BST - Add Time: 16941450 ns, Remove Time: 2500 ns, Height: 1999
+AVL - Add Time: 166700 ns, Remove Time: 2800 ns, Height: 10
+-------------------------------------------------
+
+Tree Size: 4000, Data Pattern: Skewed
+BST - Add Time: 74546450 ns, Remove Time: 5000 ns, Height: 3999
+AVL - Add Time: 394100 ns, Remove Time: 5700 ns, Height: 11
+-------------------------------------------------
+
+Tree Size: 4000, Data Pattern: Random
+BST - Add Time: 568100 ns, Remove Time: 5100 ns, Height: 26
+AVL - Add Time: 612000 ns, Remove Time: 5700 ns, Height: 13
+-------------------------------------------------
+
+Tree Size: 4000, Data Pattern: Skewed
+BST - Add Time: 77830300 ns, Remove Time: 5000 ns, Height: 3999
+AVL - Add Time: 394950 ns, Remove Time: 5700 ns, Height: 11
+-------------------------------------------------
+
+Tree Size: 4000, Data Pattern: Random
+BST - Add Time: 550500 ns, Remove Time: 5100 ns, Height: 24
+AVL - Add Time: 598800 ns, Remove Time: 5700 ns, Height: 13
+-------------------------------------------------
+
+Tree Size: 4000, Data Pattern: Skewed
+BST - Add Time: 73701900 ns, Remove Time: 4600 ns, Height: 3999
+AVL - Add Time: 365700 ns, Remove Time: 5700 ns, Height: 11
+-------------------------------------------------
